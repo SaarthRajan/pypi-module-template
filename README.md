@@ -9,17 +9,12 @@ Before you start, make sure you have:
 - A PyPI account (you can create one [here](https://pypi.org/account/register/)).
 - Python 3.6 or higher installed.
 
-## Clone the Template
+### **Create a New Repository Using this Template**
 
-1. Clone this template repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/your-template-repository.git
-    ```
+To use this template:
 
-2. Navigate to the cloned directory:
-    ```bash
-    cd your-template-repository
-    ```
+1. Click the green **"Use this template"** button in the top right of this repository.
+2. Name your repository and choose whether it will be public or private.
 
 ## Configure the Template Files
 
