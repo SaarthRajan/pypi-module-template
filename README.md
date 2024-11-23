@@ -127,8 +127,7 @@ from package_name import element
 This is case 1
 
 ```python
-import package_name as pkg
-from package_name import element
+import module
 
 # write code here
 
@@ -138,8 +137,6 @@ from package_name import element
 This is case 2
 
 ```python
-import package_name as pkg
-from package_name import element
 
 # write code here
 
