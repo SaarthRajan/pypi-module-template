@@ -1,6 +1,13 @@
-# Template for Publishing a Python Package to PyPI
+# Template for Creating a Python Package and Publishing it to PyPI
 
 This template helps you quickly set up your Python package and automate the publishing process to [PyPI](https://pypi.org/). Follow the steps below to use this template for your own Python package.
+
+## Show Your Support
+
+If you find this template useful, please consider giving it a ⭐ on GitHub! It helps others discover this project and lets me know you’re interested.
+
+[Star this repository](https://github.com/SaarthRajan/pypi-module-template)
+
 
 ## Prerequisites
 
