@@ -20,8 +20,8 @@ Before you start, make sure you have:
 
 To use this template:
 
-1. Click the green **"Use this template"** button in the top right of this repository.
-2. Name your repository and choose whether it will be public or private.
+1. Click the **"Use this template"** button in the top right of this repository.
+2. Name your repository and choose visibility.
 
 ## Configure the Template Files
 
