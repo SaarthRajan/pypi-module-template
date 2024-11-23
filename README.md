@@ -101,10 +101,10 @@ Once the workflow completes successfully, your package will be available on PyPI
 
 
 
-# Below is the sample README template for the package, make changes accordingly
-## Package Name
+# README.md template
+## package_name
 
-### What is Package Name?
+### What is package_name?
 Here is info about the package name. 
 
 ### Features
@@ -112,7 +112,7 @@ These are the features provided by package name:
 1. Feature 1
 2. Feature 2
 
-### How to install and setup Package Name?
+### How to install and setup package_name?
 
 ```python
 import package_name as pkg
